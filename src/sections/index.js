@@ -6,7 +6,7 @@ import Help from "./Help";
 import Hero from "./Hero";
 import NavBar from "./NavBar";
 import Purpose from "./Purpose";
-import Impact from "./impact";
+import Impact from "./impact.jsx";
 import Donation from "./Donation";
 import Projects from "./Projects.jsx";
 import ScrollToTop from "./ScrollToTop.jsx";
