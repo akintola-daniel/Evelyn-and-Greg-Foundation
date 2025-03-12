@@ -3,7 +3,7 @@ import { award1, donation1, donation2, people1 } from '../assets/images';
 import { FaArrowCircleRight, FaArrowCircleLeft, FaRegPlayCircle } from 'react-icons/fa';
 import { FaRegCirclePause } from "react-icons/fa6";
 import Purpose from './Purpose';
-import Impact from './impact';
+import Impact from './Impact';
 import Help from './Help';
 import Donation from './Donation';
 import Projects from './Projects';
